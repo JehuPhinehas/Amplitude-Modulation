@@ -75,7 +75,7 @@ plot(t,eAm);
 
 
 ## TABULATION:
-<img width="814" height="1280" alt="image" src="https://github.com/user-attachments/assets/a779333a-b537-4c64-be7d-62a4303077ad" />
+<img width="1280" height="789" alt="image" src="https://github.com/user-attachments/assets/0d1bec76-0b5c-4d3b-9f0c-949027a67e06" />
 
 ## Calculation
 1.	ma (Theory) = am/ac = 0.666
