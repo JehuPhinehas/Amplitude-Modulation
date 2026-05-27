@@ -78,9 +78,10 @@ plot(t,eAm);
 <img width="814" height="1280" alt="image" src="https://github.com/user-attachments/assets/a779333a-b537-4c64-be7d-62a4303077ad" />
 
 ## Calculation
-1.	ma (Theory) = am/ac = 0.667
-2.	ma(Practical) = (Emax-Emin)/(Emax+Emin) = 0.674
-<img width="916" height="1326" alt="am2" src="https://github.com/user-attachments/assets/83c0a7ef-b04f-4eea-a980-7f60bc5935fe" />
+1.	ma (Theory) = am/ac = 0.666
+2.	ma(Practical) = (Emax-Emin)/(Emax+Emin) = 0.667
+<img width="786" height="1280" alt="image" src="https://github.com/user-attachments/assets/ea7d1fe6-6fb4-4006-a91f-d0cdfbd207bb" />
+
 
 ## MODEL GRAPH
  <img width="919" height="1290" alt="image" src="https://github.com/user-attachments/assets/55326c5b-7dd5-4873-aaf6-d219bb7c4420" />
